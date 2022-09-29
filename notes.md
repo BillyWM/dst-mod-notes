@@ -9,6 +9,7 @@ First goal: disabling smoldering of structures in summer
      * Presumably a mod overrides objects in scope (plus also uses mod-specific hooks)
 * Can we hook into default menus in a standalone mod, or must they stay in their own menu in the mods tab?
     * Would like to add world options to summer
+* What's the entry point (or entry *points*) for server and client?
 
 ## Navigating source
 
